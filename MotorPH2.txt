@@ -107,7 +107,7 @@ public class MotorPH2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Preloaded sample data (first 10 records from your PDF)
+        // Preloaded sample data 
         InventoryItem[] items = {
     new InventoryItem("2/1/2023","Old","Honda","142QVTSIUR","On-hand"),
     new InventoryItem("2/1/2023","Old","Honda","PZCT1S00XE","Sold"),
